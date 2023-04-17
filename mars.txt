@@ -2,4 +2,5 @@ Cold and dry, but everything is my favorite color
 But the Mummy will appreciate the lack of humidity
 Venus is further away from the sun than Mars
 
-This is locally added
+This is a conflict -- added through github.com
+>>>>>>> d21419551003d348e0a798a6b42f4b2341373dd4
